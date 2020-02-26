@@ -11,7 +11,7 @@
     "mui-datatables": "2.0.0-beta-51",
     "mui-datatables-bitozen": "^4.0.3",
     "react": "16.4.0",
-    "react-dom": "16.4.0"
+    "react-dom": "16.4.2"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
